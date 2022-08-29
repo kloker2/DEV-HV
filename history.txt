@@ -1,0 +1,11 @@
+pip install requests
+python.exe -m pip install --upgrade pip
+
+cd D:\DEV\Dz4\DEV-HV
+d:
+git branch -vv
+dir
+git add TG-testbot.py
+git commit -m "first commit"
+git branch -vv
+doskey /HISTORY > history.txt
